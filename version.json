@@ -1,0 +1,12 @@
+{
+  "version": "1.0.1",
+  "versionCode": 2,
+  "minVersion": 1,
+  "title": "อัปเดตใหม่!",
+  "description": "เวอร์ชั่นใหม่พร้อมฟีเจอร์เพิ่มเติม",
+  "apkUrl": "https://raw.githubusercontent.com/traipop005-blip/wanphra-version/main/app-debug.apk",
+  "changelog": [
+    "ปรับปรุงประสิทธิภาพ",
+    "แก้ไขข้อผิดพลาด"
+  ]
+}
