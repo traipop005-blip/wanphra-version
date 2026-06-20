@@ -1,12 +1,13 @@
 {
-  "version": "1.0.3",
-  "versionCode": 4,
+  "version": "1.0.5",
+  "versionCode": 6,
   "minVersion": 1,
   "title": "อัปเดตใหม่!",
   "description": "เวอร์ชั่นใหม่พร้อมฟีเจอร์เพิ่มเติม",
   "apkUrl": "https://traipop005-blip.github.io/wanphra-version/app-debug.apk",
   "changelog": [
-    "ลบแถบ tabs ด้านบนออก",
-    "ปรับปรุงประสิทธิภาพ"
+    "แก้ไขระบบอัปเดตอัตโนมัติ",
+    "เพิ่มวันสำคัญทางพุทธศาสนา",
+    "ลบแถบ tabs ด้านบน"
   ]
 }
